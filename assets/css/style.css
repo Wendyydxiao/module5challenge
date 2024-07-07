@@ -1,0 +1,55 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  }
+
+
+h4 {
+  color:white;
+  font-weight: bold;
+}
+
+.lane {
+  min-height: 60vh;
+}
+
+/* Lane hover effect */
+.lane-hover {
+  border-style: dashed;
+  border-color: grey;
+}
+
+.card {
+  margin: 0 auto;
+}
+
+.card:hover {
+  cursor: grab;
+}
+
+.card-text {
+  color:white
+}
+
+.text-muted {
+  color:white !important
+} 
+
+/* Card classes for different due dates */
+.overdue {
+  background-color: rgb(212, 17, 17);
+}
+
+.due-soon {
+  background-color: rgb(249, 200, 7);
+}
+
+.on-time {
+  background-color: rgb(16, 160, 16);
+}
+
+/* Card being dragged */
+.card.ui-draggable-dragging {
+  z-index: 1000 !important;
+}
+
