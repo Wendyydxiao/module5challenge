@@ -1,7 +1,7 @@
 # 05 Third-Party APIs Challenge: Task Board
 - The goal of the project is to build a Task Board for project manager to manage the task tickets. It should enable project manager to create list of task cards and drag the cards according to its status. This is the 5th module challenge for the bootcamp student to demonstrate 3rd party API knowledge.
 - This page contains HTML, CSS & JS codes
-- Live page: 
+- Live page: https://wendyydxiao.github.io/module5challenge/
 - Screenshot(s): 
 <img src="./assets/image/Task Board.png" width="350" title="task board screenshot">
 
